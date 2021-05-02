@@ -9,4 +9,4 @@ I condensed much of the CSS that was repeating rules for seperate elements
 
 I added Alt descriptions to the images
 
-
+URL of deployed app" <a href="https://kelleymarne.github.io/horiseon/">Horiseon</a>
